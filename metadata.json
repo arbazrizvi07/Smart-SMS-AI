@@ -1,0 +1,6 @@
+{
+  "name": "SMS Insight",
+  "description": "An offline-first, highly secure financial transaction analyzer and manager powered by Gemini Nano on-device AI. Smartly track spending, upcoming bills, and clean up SMS clutter securely with zero data leak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
